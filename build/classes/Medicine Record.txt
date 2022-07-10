@@ -1,0 +1,27 @@
+AIL01, Thyronorm 12.5Mg,Abbott India Limited,Tablet,Hypothyroidism,280,	Available,	2022
+AIL02, Digene,		Abbott India Limited,Tablet,Acidity,30,	Available,	2022
+AIL03, Insulin Novomix,	Abbott India Limited,Syringe,Diabetes,1168,	Available,	2023
+AIL04, Digene 200ml,	Abbott India Limited,Syrup,Acidity,191,	Available,	2023
+AIL05, Duphalacp 150ml,	Abbott India Limited,Syrup,Acidity,274,	Not-Available,	2022
+QP01, Aladin 120mg,	Quest Pharmaceuticals,Tablet,Allergy,90,	Available,	2023
+NP01, L Ctz Syrup 30ml,  Nepal Pharmaceuticals,Syrup,Allergy,45,	Available,	2024
+NP02, Mekast - 4,	Nepal Pharmaceuticals,Tablet,Allergy,106,	Available,	2024
+NP03, Feza 120 Tablet,	Nepal Pharmaceuticals,Tablet,Allergy,108,	Available,	2023
+TP01, Nolar 60ml, 	Time Pharmaceuticals,Syrup,Allergy,90,	Available,	2022
+SP01, Milflox 5ml,	Sun Pharma,Eye drop,Eye infection,203,	Available,	2025
+SP02, Predmet 5ml,	Sun Pharma,Eye drop,Eye infection,62,	Available,	2023
+SQR01, Nacromin 15ml,	Square Pharmaceuticals,Eye drop,Eye infection,120,	Available,	2023
+NP04, Tendrone 15gm,	Nepal Pharmaceuticals,Cream,Eye infection,201,	Not-Available,	2023
+NP05, Amlod At,		Nepal Pharmaceuticals,Tablet,Hypertension,80,	Available,	2025
+QP02, Atenol 100mg,	Quest Pharmaceuticals,Tablet,Hypertension,50,	Available,	2025
+QP03, Metloc 50mg,	Quest Pharmaceuticals,Tablet,Hypertension,53,	Available,	2022
+QP04, Mylod 5mg,	Quest Pharmaceuticals,Tablet,Hypertension,75,	Available,	2022
+MP01, Mozart H 50mg,	Magnus Pharma Pvt.Ltd,Tablet,Hypertension,195,	Not-Available,	2023
+QP05, Bactolac,		Quest Pharmaceuticals,Capsule,Diarrhoea,90,	Available,	2024
+MP02, Enterogermina 5ml,Magnus Pharma,Syringe,Diarrhoea,87,	Available,	2022
+SP03, Eldopar,		Sun Pharma,Capsule,Diarrhoea,58,	Available,	2025
+MP03, Protogyl DF 50ml,	Magnus Pharma,Syrup,Diarrhoea,70,	Available,	2024
+SQR02, Floratic - C,	Square Pharmaceuticals,Capsule,Diarrhoea,255,	Available,	2023
+MP04, Metfor 500,	Magnus Pharma,Tablet,Diabetes,20,	Available,	2024
+SQR03, Glycomet SR 500mg,Square Pharmaceuticals,Tablet,Diabetes,70,	Available,	2022
+TP02, Insulin Glaritus,	Time Pharmaceuticals,Syringe,Diabetes,916,	Not-Available,	2022
